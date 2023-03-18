@@ -1,95 +1,94 @@
 [
     {
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[چشمانو ببند و اول و آخر اسم معشوقتو بگو]"
-
+        "name" : "[چشمانو ببند و اول و آخر اسم معشوقتو بگو]",
+        "true" : "[بزرگ ترین ترس دوران بچگیت؟]"
 
     },
       {
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[تخم مرغ خام بخور]"
-
+        "name" : "[تخم مرغ خام بخور]",
+        "true" : "[بدترین غذایی که تا حالا امتحان کردی]"
 
     },
     {
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[چشمانو ببند و اول و آخر اسم معشوقتو بگو]"
-
-
-    }, {
-        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[بازیکنان یک معجون درست کنن]"
-
+        "name" : "[چشمانو ببند و اول و آخر اسم معشوقتو بگو]",
+        "true" : "[تا حالا راز دوستت رو به کسی گفتی]"
 
     }, {
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[سیر خام بخور]"
-
-
-    }, {
-        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[با لباس برو زیر دوش]"
-
+        "name" : "[بازیکنان یک معجون درست کنن]",
+        "true" : "[ابرقهرمان مورد علاقت کیه و چرا]"
 
     }, {
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[تخم مرغ روی سر]"
-
+        "name" : "[سیر خام بخور]",
+        "true" : "[تا حالا سر کلاس خوراکی خوردی]"
 
     }, {
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[ده سانت از موهای خود را کوتاه کنید]"
+        "name" : "[با لباس برو زیر دوش]",
+        "true" : "[چی حوصلتو سر می بره]"
 
+    }, {
+        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
+        "name" : "[تخم مرغ روی سر]",
+        "true" : "[تا حالا جلوی دوستات گریه کردی]"
+
+    }, {
+        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
+        "name" : "[ده سانت از موهای خود را کوتاه کنید]",
+
+        "true" : "[فیلم مورد علاقه ات]"
+    },{
+        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
+        "name" : "[یه سبک های مختلف برقص]",
+
+        "true" : "[کراشت کیه]"
+    },{
+        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
+        "name" : "[با صدای بلند فحش بده]",
+
+        "true" : "[بهترین سریالی که دیدی]"
+    },{
+        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
+        "name" : "[برای بازیکنان بستنی بخر]",
+        "true" : "[سه تا از اهنگ های مورد علاقه ات]"
 
     },{
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[یه سبک های مختلف برقص]"
-
-
-    },{
-        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[با صدای بلند فحش بده]"
-
+        "name" : "[سرت رو بکن تو سطل آشغال]",
+        "true" : "[فرد مورد علاقه اات از بازیکنان]"
 
     },{
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[برای بازیکنان بستنی بخر]"
-
-
-    },{
-        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[سرت رو بکن تو سطل آشغال]"
-
+        "name" : "[صدای باد روده در بیار]",
+        "true" : "[آبدار ترین فحشی که شنیدی]"
 
     },{
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[صدای باد روده در بیار]"
-
-
-    },{
-        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[استوری بزار و بگو فردا عمل دارم]"
-
+        "name" : "[استوری بزار و بگو فردا عمل دارم]",
+        "true" : "[اولین کلمه ای که به ذهنت میرسه رو بگو]"
 
     },{
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[یک قاشق سس تند بخور]"
-
-
-    },{
-        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[بازیکنان صورت تو رو نقاشی کنن]"
-
+        "name" : "[یک قاشق سس تند بخور]",
+        "true" : "[مسخره ترین باری که تنبیه شدی]"
 
     },{
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[بازیکنان آرایشت کنن]"
-
+        "name" : "[بازیکنان صورت تو رو نقاشی کنن]",
+        "true" : "[بزرک ترین ترست]"
+    },{
+        "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
+        "name" : "[بازیکنان آرایشت کنن]",
+        "true" : "[بهترین روز زندگیت]"
 
     },{
         "image" : "https://github.com/amirsamdev/saaspro/raw/sofa11/glowing_nether_gold_block_from_minecraft.glb",
-        "name" : "[تا دور بعدی که نوبتت بشه تو حالت پلانک بمون]"
-
+        "name" : "[تا دور بعدی که نوبتت بشه تو حالت پلانک بمون]",
+        "true" : "[اسم دوست جنس مخالفت ]"
 
     }
 ]
