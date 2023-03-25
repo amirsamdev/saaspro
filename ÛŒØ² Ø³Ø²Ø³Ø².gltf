@@ -1,0 +1,155 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 441,
+            "max": [
+                0.37435010075569153,
+                1.0,
+                0.0
+            ],
+            "min": [
+                -0.37435010075569153,
+                0.0,
+                0.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 441,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 441,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5123,
+            "count": 2400,
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "generator": "Adobe Creative Cloud",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 5292
+        },
+        {
+            "buffer": 0,
+            "byteLength": 3528,
+            "byteOffset": 5292
+        },
+        {
+            "buffer": 0,
+            "byteLength": 5292,
+            "byteOffset": 8820
+        },
+        {
+            "buffer": 0,
+            "byteLength": 4800,
+            "byteOffset": 14112
+        },
+        {
+            "buffer": 0,
+            "byteLength": 33656,
+            "byteOffset": 18912
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 52568
+        }
+    ],
+    "extensionsUsed": [
+        "ADBE_Photoshop_ImagePlane"
+    ],
+    "images": [
+        {
+            "bufferView": 4,
+            "mimeType": "image/jpeg",
+            "name": "Layer 1.JPG"
+        }
+    ],
+    "materials": [
+        {
+            "alphaMode": "BLEND",
+            "doubleSided": true,
+            "emissiveFactor": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "extensions": {
+                "ADBE_Photoshop_ImagePlane": {
+                    "diffuseFactor": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ]
+                }
+            },
+            "name": "Layer 1",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.029999999329447746
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Layer 1 Mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 2,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 1
+                    },
+                    "indices": 3,
+                    "material": 0,
+                    "mode": 4
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "mesh": 0,
+            "name": "Layer 1 Mesh"
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "source": 0
+        }
+    ]
+}
