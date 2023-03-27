@@ -1,7 +1,23 @@
 [
     {
-"img":"https://github.com/amirsamdev/saaspro/raw/sofa11/AA_prev_ui.png",
-"name" : "برگ انجیری"
+"img":"https://github.com/amirsamdev/saaspro/raw/sofa11/schefflera.jpg",
+"name" : "آرالیا دروغین"
 
-    }
+    },
+    {
+        "img":"https://github.com/amirsamdev/saaspro/raw/sofa11/fatsia.jpg",
+        "name" : "آرالیای برگ پهن ژاپنی"
+        
+            },
+            {
+                "img":"https://github.com/amirsamdev/saaspro/raw/sofa11/astrantia.jpg",
+                "name" :" آستارانتیا ستاره گون"
+                
+                    },
+                    {
+                        "img":"https://github.com/amirsamdev/saaspro/raw/sofa11/idk.jpg",
+                        "name" : "آدنیوم"
+                        
+                            }
+                        
 ]
