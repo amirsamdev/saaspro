@@ -1,4 +1,4 @@
-    {
+[    {
         "img": "https://s.namemc.com/3d/skin/body.png?id=d6e91f8862398a22&model=slim&width=320&height=320",
         "down": "https://s.namemc.com/i/d6e91f8862398a22.png"
     },
@@ -170,3 +170,4 @@
         "img":"https://s.namemc.com/3d/skin/body.png?id=432c6a612dbdebd7&model=slim&width=320&height=320",
         "down":"https://s.namemc.com/i/432c6a612dbdebd7.png"
     }
+]
