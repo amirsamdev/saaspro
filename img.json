@@ -20,7 +20,7 @@
     },
     {
         "img": "https://s.namemc.com/3d/skin/body.png?id=c018b702ca12a2df&model=classic&width=320&height=320",
-        "down": "https://s.namemc.com/3d/skin/body.png?id=c018b702ca12a2df&model=classic&width=320&height=320"
+        "down": "https://s.namemc.com/i/c018b702ca12a2df.png"
     },
     {
         "img": "https://s.namemc.com/3d/skin/body.png?id=ce05be625d32bcde&model=classic&width=320&height=320",
@@ -150,8 +150,8 @@
         "img": "https://s.namemc.com/3d/skin/body.png?id=15167f4db2fb2fb7&model=classic&width=235&height=235",
         "down": "https://s.namemc.com/i/15167f4db2fb2fb7.png"
     },
-    {   "img": "https://s.namemc.com/i/f843c357114bfae4.png",
-        "down": "https://s.namemc.com/3d/skin/body.png?id=f843c357114bfae4&model=classic&width=235&height=235"
+    {   "img": "https://s.namemc.com/3d/skin/body.png?id=f843c357114bfae4&model=classic&width=235&height=235",
+        "down": "https://s.namemc.com/i/f843c357114bfae4.png"
 
     },
     {
