@@ -10,7 +10,7 @@
         "diffrential": "",
         "acceleration": "",
         "vol": "",
-        "img":"https://github.com/amirsamdev/saaspro/blob/sofa11/t.png?raw=true"
+        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/t.png"
     },
     {
         "kprice": "500,000,000",
@@ -23,7 +23,7 @@
         "diffrential": "",
         "acceleration": "",
         "vol": "",
-        "img":"https://github.com/amirsamdev/saaspro/blob/sofa11/r.png?raw=true"
+        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/r.png"
 
     },
     {
@@ -37,7 +37,7 @@
         "diffrential": "",
         "acceleration": "",
         "vol": "",
-        "img":"https://github.com/amirsamdev/saaspro/blob/sofa11/p.png?raw=true"
+        "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/p.png"
 
     }
 ]
