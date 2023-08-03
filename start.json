@@ -2,7 +2,7 @@
     {
         "kprice": "325,000,000",
         "bprice": "425,000,000",
-        "name": "",
+        "name": "تندر ال 90",
         "year": "",
         "con": "",
         "motor": "",
@@ -10,12 +10,12 @@
         "diffrential": "",
         "acceleration": "",
         "vol": "",
-        "img":""
+        "img":"https://github.com/amirsamdev/saaspro/blob/sofa11/t.png?raw=true"
     },
     {
         "kprice": "500,000,000",
         "bprice": "600,000,000",
-        "name": "",
+        "name": "رانا",
         "year": "",
         "con": "",
         "motor": "",
@@ -23,13 +23,13 @@
         "diffrential": "",
         "acceleration": "",
         "vol": "",
-        "img":""
+        "img":"https://github.com/amirsamdev/saaspro/blob/sofa11/r.png?raw=true"
 
     },
     {
         "kprice": "450,000,000",
         "bprice": "550,000,000",
-        "name": "",
+        "name": "پژو پارس",
         "year": "",
         "con": "",
         "motor": "",
@@ -37,7 +37,7 @@
         "diffrential": "",
         "acceleration": "",
         "vol": "",
-        "img":""
+        "img":"https://github.com/amirsamdev/saaspro/blob/sofa11/p.png?raw=true"
 
     }
 ]
