@@ -14,8 +14,8 @@
         "img":"https://raw.githubusercontent.com/amirsamdev/saaspro/sofa11/t.png"
     },
     {
-        "kprice": "500,000,000",
-        "bprice": "600,000,000",
+        "kprice": "500,000,000:کارخانه",
+        "bprice": "600,000,000:بازار",
         "name": "رانا",
         "year": "",
         "con": "",
@@ -28,8 +28,8 @@
 
     },
     {
-        "kprice": "450,000,000",
-        "bprice": "550,000,000",
+        "kprice": "450,000,000:کارخانه",
+        "bprice": "550,000,000:بازار",
         "name": "پژو پارس",
         "year": "",
         "con": "",
