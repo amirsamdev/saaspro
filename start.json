@@ -1,44 +1,43 @@
-[    
+[
     {
-"kprice":"325,000,000",
-"bprice":"425,000,000",
-"name":"",
-"year":"",
-"con":"",
+        "kprice": "325,000,000",
+        "bprice": "425,000,000",
+        "name": "",
+        "year": "",
+        "con": "",
+        "motor": "",
+        "breath": "",
+        "diffrential": "",
+        "acceleration": "",
+        "vol": "",
+        "img":""
+    },
+    {
+        "kprice": "500,000,000",
+        "bprice": "600,000,000",
+        "name": "",
+        "year": "",
+        "con": "",
+        "motor": "",
+        "breath": "",
+        "diffrential": "",
+        "acceleration": "",
+        "vol": "",
+        "img":""
 
-"motor":"",
-"breath":"",
-"diffrential":"",
-"acceleration":"",
-"vol":""
-},    {
-    "kprice":"500,000,000",
-    "bprice":"600,000,000",
-    "name":"",
-    "year":"",
-    "con":"",
-    
-    "motor":"",
-    "breath":"",
-    "diffrential":"",
-    "acceleration":"",
-    "vol":""
-    },    {
-        "kprice":"450,000,000",
-        "bprice":"550,000,000",
-        "name":"",
-        "year":"",
-        "con":"",
-        
-        "motor":"",
-        "breath":"",
-        "diffrential":"",
-        "acceleration":"",
-        "vol":""
-        }
+    },
+    {
+        "kprice": "450,000,000",
+        "bprice": "550,000,000",
+        "name": "",
+        "year": "",
+        "con": "",
+        "motor": "",
+        "breath": "",
+        "diffrential": "",
+        "acceleration": "",
+        "vol": "",
+        "img":""
 
-
-
-
-
+    }
 ]
