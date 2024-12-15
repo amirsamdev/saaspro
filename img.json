@@ -1,3 +1,4 @@
 {
-  "confing1": "[Interface]\nPrivateKey = UA41ej4FnnTnMShPhs/tvJdxEq6sDROfYdUU1a4bRUc=\nAddress = 172.17.172.2/24\nDNS = 178.22.122.100, 185.51.200.2\n[Peer]\nPublicKey = JNT4WJuVkq6Q4OThNT/uiqr8eVrVXxY8C80xku7x4Do=\nPresharedKey = As6JiXcYcqwjSHxSOrmQT13uGVlBG90uXZWmtaezZVs=\nAllowedIPs = 2a01:4f8:c0:2da6::/64\nPersistentKeepalive = 0\nEndpoint = swiftDNS.vip.host:1234"
+  "confing1": "[Interface]\nPrivateKey = UA41ej4FnnTnMShPhs/tvJdxEq6sDROfYdUU1a4bRUc=\nAddress = 172.17.172.2/24\nDNS = 178.22.122.100, 185.51.200.2\n[Peer]\nPublicKey = JNT4WJuVkq6Q4OThNT/uiqr8eVrVXxY8C80xku7x4Do=\nPresharedKey = As6JiXcYcqwjSHxSOrmQT13uGVlBG90uXZWmtaezZVs=\nAllowedIPs = 2a01:4f8:c0:2da6::/64\nPersistentKeepalive = 0\nEndpoint = swiftDNS.vip.host:1234",
+  "an" : "ridaam"
 }
